@@ -8,9 +8,9 @@ const IconLogo = props => {
     <svg
       className={className}
       {...rest}
-      width="21"
-      height="25"
-      viewBox="0 0 21 25"
+      width="35"
+      height="50"
+      viewBox="0 0 35 50"
       xmlns="http://www.w3.org/2000/svg"
     >
       <path
